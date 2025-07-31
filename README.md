@@ -4,7 +4,8 @@
 💻 I'm a Full Stack developer, always looking for updates on new technological trends. I have experience in developing web applications, using languages ​​such as PHP/Laravel, C#.NET, VB.NET and Java and databases such as MySQL and sqlServer. <br>
 ⚡ I also speak English and started a German course..
 
-🔭 I’m currently working on UNC as System Analyst.
+🔭 I’m currently working on [Universidade do Contestado](https://github.com/Universidade-do-Contestado) as System Analyst.
+
 <br>
 <h2>💻 Tech Skills </h2><br>
 •	<b>Programming Languages</b>: PHP, Laravel, C#, VB.NET, Java, Delphi, JavaScript, AJAX, JSON.<br>
