@@ -7,17 +7,17 @@
 🔭 I’m currently working on UNC as System Analyst.
 <br>
 <h2>💻 Tech Skills </h2><br>
-•	**Programming Languages**: PHP, Laravel, C#, VB.NET, Java, Delphi, JavaScript, AJAX, JSON.<br>
-•	**Web Technologies**: HTML5, CSS, Tailwind CSS, Alpine.js, JQuery.<br>
-•	**Databases**: MySQL, Microsoft SQL Server.<br>
-•	**Version Control**: GitHub.<br>
-•	**Development Tools**: Visual Studio Code, Visual Studio Team Foundation Server (TFS), Scriptcase.<br>
-•	**Reporting & Documentation**: iReport, Documize.<br>
-•	**Password & Workflow Management**: Passbolt.<br>
-•	**Telecommunications Tools**: Access7, Netmanager, EWSD system management.<br>
-•	**Office Suite**: Microsoft Office (Word, Excel, PowerPoint, Outlook, etc.).<br>
-•	**Cloud & Collaboration Tools**: Google Workspace (Docs, Sheets, Slides, Drive, Gmail).<br>
-•	**Design & Presentation**: Canva.
+•	<b>Programming Languages</b>: PHP, Laravel, C#, VB.NET, Java, Delphi, JavaScript, AJAX, JSON.<br>
+•	<b>Web Technologies</b>: HTML5, CSS, Tailwind CSS, Alpine.js, JQuery.<br>
+•	<b>Databases</b>: MySQL, Microsoft SQL Server.<br>
+•	<b>Version Control</b>: GitHub.<br>
+•	<b>Development Tools</b>: Visual Studio Code, Visual Studio Team Foundation Server (TFS), Scriptcase.<br>
+•	<b>Reporting & Documentation</b>: iReport, Documize.<br>
+•	<b>Password & Workflow Management</b>: Passbolt.<br>
+•	<b>Telecommunications Tools</b>: Access7, Netmanager, EWSD system management.<br>
+•	<b>Office Suite</b>: Microsoft Office (Word, Excel, PowerPoint, Outlook, etc.).<br>
+•	<b>Cloud & Collaboration Tools</b>: Google Workspace (Docs, Sheets, Slides, Drive, Gmail).<br>
+•	<b>Design & Presentation</b>: Canva.
 
 <!--
 **FlavioSilveiraLeite/FlavioSilveiraLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
